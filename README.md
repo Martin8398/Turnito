@@ -107,4 +107,5 @@ It allows clients to easily book appointments, while businesses can efficiently 
  • Analytics dashboard (Comming Soon)
  
  • Google Calendar integration (Comming soon...)
- 
+
+ ![DER](./DER.png)
