@@ -6,8 +6,8 @@ Turnito es una aplicación web de gestión de turnos pensada como solución SaaS
 
 Permite a los clientes reservar turnos de forma simple y a los negocios administrar su agenda de manera eficiente, todo en una misma plataforma.
 
-🚀 Features
-👤 Clientes
+# 🚀 Features
+# 👤 Clientes
 Ver profesionales disponibles
 Consultar horarios en tiempo real
 Reservar turnos fácilmente
